@@ -1,4 +1,4 @@
-package com.souri.spring.springbasics;
+package com.souri.spring.springbasics.basic;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;

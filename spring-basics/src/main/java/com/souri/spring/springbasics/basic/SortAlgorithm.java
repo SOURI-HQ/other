@@ -1,4 +1,4 @@
-package com.souri.spring.springbasics;
+package com.souri.spring.springbasics.basic;
 
 public interface SortAlgorithm {
     int[] sort(int[] numbers);
