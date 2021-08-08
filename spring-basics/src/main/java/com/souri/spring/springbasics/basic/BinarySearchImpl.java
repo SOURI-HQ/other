@@ -28,7 +28,6 @@ public class BinarySearchImpl {
         return 7;
     }
 
-
     @PostConstruct
     public void postConstruct() {
         logger.info("postConstruct");
@@ -38,4 +37,5 @@ public class BinarySearchImpl {
     public void preDestroy() {
         logger.info("preDestroy");
     }
+
 }
