@@ -1,6 +1,5 @@
 package com.souri.spring.springbasics;
 
-import com.souri.spring.springbasics.basic.BinarySearchImpl;
 import com.souri.spring.springbasics.properties.ExternalService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
